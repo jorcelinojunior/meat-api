@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./dist/main.js",
-    "dev": "nodemon ./dist/main.js"
+    "dev": "nodemon ./dist/main.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
